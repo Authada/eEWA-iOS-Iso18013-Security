@@ -13,7 +13,7 @@ let package = Package(
             targets: ["MdocSecurity18013"]),
     ],
     dependencies: [
-        .package(url:"https://github.com/Authada/eEWA-iOS-Iso18013-Data-Model.git", branch: "main"),
+        .package(url:"https://github.com/Authada/eEWA-iOS-Iso18013-Data-Model.git", exact: "0.2.0"),
         .package(url: "https://github.com/apple/swift-log.git", from: "1.5.3"),
         .package(url: "https://github.com/apple/swift-certificates.git", .upToNextMajor(from: "1.0.0"))
     ],

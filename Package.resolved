@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Authada/eEWA-iOS-Iso18013-Data-Model.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "90674a06e7666c5b59f945793e71ff135a872d08"
+        "revision" : "90674a06e7666c5b59f945793e71ff135a872d08",
+        "version" : "0.2.0"
       }
     },
     {
